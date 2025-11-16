@@ -36,7 +36,7 @@ ________________________________________________________________________________
 
 🏋️ Training Notebook
 
-Located in: cifar10_resnet50_training.ipynb
+Located in: Object_Recognition_Cifar_10.ipynb
 
 The notebook includes:
 1) Dataset loading
